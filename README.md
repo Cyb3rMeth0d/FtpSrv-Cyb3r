@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ruta/a/tu/logo.png" alt="FtpSv-Cyb3r Logo" width="380">
+<img src="https://i.ibb.co/vSS7p2n/Gemini-Generated-Image-wyrkjgwyrkjgwyrk.jpg" alt="FtpSv-Cyb3r Logo" width="380">
 
 # ⚡ FtpSv-Cyb3r `V.1a`
 
